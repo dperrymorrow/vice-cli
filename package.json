@@ -1,0 +1,22 @@
+{
+  "name": "vices-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "vice": "bin/index.js"
+  },
+  "author": "David Morrow",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "data-store": "^3.1.0",
+    "inquirer": "^6.2.2",
+    "moment": "^2.24.0",
+    "table": "^5.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.1"
+  }
+}
